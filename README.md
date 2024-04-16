@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+#Output
+![calculate_marks](https://github.com/SauravPatel31/Calculate_Marks/assets/100372178/18dbec2c-2c09-4361-9f0d-84cd26bb0cfb)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
